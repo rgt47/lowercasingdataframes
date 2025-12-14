@@ -50,6 +50,12 @@
       "Version": "1.1.5",
       "Source": "Repository",
       "Repository": "CRAN"
+    },
+    "purrr": {
+      "Package": "purrr",
+      "Version": "1.2.0",
+      "Source": "Repository",
+      "Repository": "CRAN"
     }
   }
 }
